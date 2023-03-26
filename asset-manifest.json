@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/financial-statement-analysis/static/js/main.8dac8c54.js",
+    "main.js": "/financial-statement-analysis/static/js/main.2fe18702.js",
     "index.html": "/financial-statement-analysis/index.html",
-    "main.8dac8c54.js.map": "/financial-statement-analysis/static/js/main.8dac8c54.js.map"
+    "main.2fe18702.js.map": "/financial-statement-analysis/static/js/main.2fe18702.js.map"
   },
   "entrypoints": [
-    "static/js/main.8dac8c54.js"
+    "static/js/main.2fe18702.js"
   ]
 }
