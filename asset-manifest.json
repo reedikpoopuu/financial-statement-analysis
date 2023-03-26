@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/financial-statement-analysis/static/css/main.1661addc.css",
-    "main.js": "/financial-statement-analysis/static/js/main.a1f3e8e9.js",
+    "main.css": "/financial-statement-analysis/static/css/main.597143d6.css",
+    "main.js": "/financial-statement-analysis/static/js/main.8dac8c54.js",
     "index.html": "/financial-statement-analysis/index.html",
-    "main.1661addc.css.map": "/financial-statement-analysis/static/css/main.1661addc.css.map",
-    "main.a1f3e8e9.js.map": "/financial-statement-analysis/static/js/main.a1f3e8e9.js.map"
+    "main.597143d6.css.map": "/financial-statement-analysis/static/css/main.597143d6.css.map",
+    "main.8dac8c54.js.map": "/financial-statement-analysis/static/js/main.8dac8c54.js.map"
   },
   "entrypoints": [
-    "static/css/main.1661addc.css",
-    "static/js/main.a1f3e8e9.js"
+    "static/css/main.597143d6.css",
+    "static/js/main.8dac8c54.js"
   ]
 }
