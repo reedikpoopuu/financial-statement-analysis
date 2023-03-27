@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/financial-statement-analysis/static/js/main.5bb7c0ce.js",
+    "main.css": "/financial-statement-analysis/static/css/main.d3d3bc03.css",
+    "main.js": "/financial-statement-analysis/static/js/main.94904393.js",
     "index.html": "/financial-statement-analysis/index.html",
-    "main.5bb7c0ce.js.map": "/financial-statement-analysis/static/js/main.5bb7c0ce.js.map"
+    "main.d3d3bc03.css.map": "/financial-statement-analysis/static/css/main.d3d3bc03.css.map",
+    "main.94904393.js.map": "/financial-statement-analysis/static/js/main.94904393.js.map"
   },
   "entrypoints": [
-    "static/js/main.5bb7c0ce.js"
+    "static/css/main.d3d3bc03.css",
+    "static/js/main.94904393.js"
   ]
 }
